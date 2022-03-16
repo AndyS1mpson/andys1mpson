@@ -1,4 +1,4 @@
-<h2>Hello! I'm Andrew!<img src="https://media3.giphy.com/media/MCXpHZt0E3wuDIWUkQ/giphy.gif?cid=790b7611085a1657c7a3b3c9933d62e919a620b786919b85&rid=giphy.gif&ct=s" width="50"></h2>
+<h2>Hello! I'm Andrew!<img src="https://media3.giphy.com/media/MCXpHZt0E3wuDIWUkQ/giphy.gif?cid=790b7611085a1657c7a3b3c9933d62e919a620b786919b85&rid=giphy.gif&ct=s" width="40"></h2>
 <div>
 <a href="https://www.linkedin.com/in/andrey-ageev-999023228/" target="_blank" rel="nofollow"><img align="left" alt="Andrew's Linkdein" width="30px" src="https://img.icons8.com/nolan/344/linkedin.png" /></a>
 <a href="https://twitter.com/andys1mpson2000" target="_blank" rel="nofollow"><img align="left" alt="Andrew's Twitter" width="30px" src="https://img.icons8.com/nolan/344/twitter-circled.png" /></a>
