@@ -5,7 +5,7 @@
 
 <h3>📝 A little about me: </h3>
 
-I almost graduated from SPBSU. Also I work as a Software Engineer using Python 
+I almost graduate from SPBSU. Also I work as a Software Engineer using Python 
 
 My work places:
 - 💼 Junior Backend Developer at _DEERC_
