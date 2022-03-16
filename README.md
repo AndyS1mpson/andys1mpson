@@ -1,4 +1,4 @@
-<h1>Hello. I'm Andrew & I ❤️ code.</h1>
+<h2>Hello. I'm Andrew! <img src="https://media.giphy.com/media/17pcy93hTM0MkRLh8R/giphy.gif" width="60"></h2>
 <div>
 <a href="https://www.linkedin.com/in/andrey-ageev-999023228/" target="_blank" rel="nofollow"><img align="left" alt="Andrew's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 <a href="https://twitter.com/andys1mpson2000" target="_blank" rel="nofollow"><img align="left" alt="Andrew's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a>
