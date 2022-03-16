@@ -14,7 +14,7 @@ My work places:
 
 ### 🔧 Technologies
 - 👨‍💻 Django, FastAPI  
--  ⚙️ Docker, Nginx, Elasticsearch, Celery, Kubernetes  
+-  ⚙️ Docker, Jenkins, Nginx, Elasticsearch, Celery, Kubernetes  
 -  💽 Postgresql, Redis  
 ---
 
