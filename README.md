@@ -21,7 +21,7 @@ My work places:
 
 ### 📊 Github Stats
 <a href='https://github.com/AndyS1mpson/github-stats-transparent'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyS1mpson&hide=jupyter%20notebook&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyS1mpson&hide=jupyter%20notebook,css,html,c%23,javascript,typescript,scss,cuda,c%2B%2B&layout=compact&theme=radical" />
 </a>
 <a href='https://github.com/AndyS1mpson/github-stats-transparent'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndyS1mpson&show_icons=true&hide_border=true&theme=radical" alt="AndyS GitHub Stats"/>
