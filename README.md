@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ---
 
-<h3>📝 A little about me: </h3>
+<h3>📝 A little bit about me: </h3>
 
 I almost graduate from SPBSU. Also I work as a Software Engineer using Python 
 
