@@ -13,8 +13,9 @@
 I almost graduated from Saint-Petersburg State University. Also I work as a Software Engineer using Python 
 
 My work places:
-- 💼 Junior Backend Developer at _DEERC_
-- 💼 Middle Backend Developer at _QwertyCoding_
+- 💼 Ex: Junior Backend Developer at _DEERC_
+- 💼 Ex: Middle Backend Developer at _QwertyCoding_
+- 💼 Currently: Middle Backend Developer at _Orbis Tertius_
 ---
 
 ### 🔧 Technologies
