@@ -10,7 +10,7 @@
 
 <h3>📝 A little bit about me: </h3>
 
-I almost graduated from Saint-Petersburg State University. Also I work as a Software Engineer using Python 
+I graduated from St. Petersburg State University with a bachelor's degree in Fundamental Computer Science and Information Technology. Also I work as a Software Engineer using Python 
 
 My work places:
 - 💼 Ex: Junior Backend Developer at _DEERC_
