@@ -13,9 +13,10 @@
 I graduated from St. Petersburg State University with a bachelor's degree in Fundamental Computer Science and Information Technology. Also I work as a Software Engineer using Python 
 
 My work places:
-- 💼 Ex: Junior Backend Developer at _DEERC_
-- 💼 Ex: Middle Backend Developer at _QwertyCoding_
-- 💼 Currently: Middle Backend Developer at _Orbis Tertius_
+- 💼 Currently: Middle Backend Developer at _Orbis Tertius_, since Apr 2022
+- 💼 Ex: Middle Backend Developer at _QwertyCoding_, Nov 2021 - Feb 2022
+- 💼 Ex: Junior Backend Developer at _DEERC_, Aug 2020 - Jun 2022
+
 ---
 
 ### 🔧 Core Skills and Tools
