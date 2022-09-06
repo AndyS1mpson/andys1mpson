@@ -18,40 +18,33 @@ My work places:
 - 💼 Currently: Middle Backend Developer at _Orbis Tertius_
 ---
 
-### 🔧 Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-- 👨‍💻 Django/DRF, FastAPI  
--  ⚙️ Docker, Jenkins, Nginx, Elasticsearch, Celery, ClickHouse, Kafka  
--  💽 Postgresql, MySQL, Redis  
----
-
-
-### Core Skills and Tools
+### 🔧 Core Skills and Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
 </p>
 
 <p>
 <img src="https://styles.redditmedia.com/t5_2qh4v/styles/communityIcon_r1rcce3bp1241.png" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="50px"/>
-
+<img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/6617/2328/thumbnail.png?v131141820642441697" width="50px"/>
+<img src="https://raw.githubusercontent.com/github/explore/60cd2530141f67f07a947fa2d310c482e287e387/topics/playwright/playwright.png" width="50px"/>
+<img src="https://img.icons8.com/ios/500/selenium-test-automation.png" width="50px"/>
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="50px"/>
   <img src="https://avatars.githubusercontent.com/u/54801242?s=280&v=4" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px"/>
 </p>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="50px"/>
+<img src="https://fuse8.ru/media/1822/apache-kafka.png" width="50px"/>
 <img src="https://user-images.githubusercontent.com/45228812/188652721-b9e91acf-294e-4373-93e6-507ccd4f7941.png" width="50px"/>
 <img src="https://toppng.com/uploads/preview/once-upon-a-time-elastic-search-png-ico-115632852950t51guoxee.png" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
@@ -65,6 +58,8 @@ My work places:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px"/>
 
 </p>
 
