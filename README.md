@@ -8,23 +8,22 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">  
 <br />
 
-### 📝 A little bit about me:
----
+## 📝 A little bit about me:
+
 My name is Andrey Ageev. I work as a Software Engineer using Python. At my current workplace, I develop distributed high-load systems. In my free time I study the design and architecture of modern software, good code writing practices and much more.
 
-### 👨‍💻 Experience
----
+## 👨‍💻 Experience
+
 - 💼 Currently: Middle Backend Developer at _Orbis3_, since Mar 2022
 - 💼 Ex: Middle Backend Developer at _QwertyCoding_, Nov 2021 - Feb 2022
 - 💼 Ex: Junior Backend Developer at _DEERC_, Aug 2020 - Jun 2022
 
-### 🎓 Education
----
+## 🎓 Education
+
 - 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2022
 
 
-### 🔧 Core Skills and Tools
----
+## 🔧 Core Skills and Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
