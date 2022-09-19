@@ -10,7 +10,7 @@
 
 ### 📝 A little bit about me:
 ---
-My name is Andrey Ageev. I work as a Software Engineer using Python. At my current workplace, I am writing a distributed, highly loaded system for scraping information from large marketplaces with the provision of analytics tools. In my free time I study the design and architecture of modern software, good code writing practices and much more.
+My name is Andrey Ageev. I work as a Software Engineer using Python. At my current workplace, I develop distributed high-load systems. In my free time I study the design and architecture of modern software, good code writing practices and much more.
 
 ### 👨‍💻 Experience
 ---
