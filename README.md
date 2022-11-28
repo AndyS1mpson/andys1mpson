@@ -14,9 +14,9 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 
 ## 👨‍💻 Experience
 
-- 💼 Currently: Middle Backend Developer at _Orbis3_, since Apr 2022
-- 💼 Ex: Junior Backend Developer at _DEERC SPbU_, Feb 2021 - Jun 2022
-- 💼 Ex: Intern/Junior Backend Developer at _QwertyCoding_, Aug 2020 - Feb 2021
+- 💼 Currently: Middle Backend Developer ad _Innotech_, since Nov 2022
+- 💼 Ex: Middle Backend Developer at _Orbis3_, Mar 2022 - Nov 2022
+- 💼 Ex: Junior Backend Developer at _DEERC SPbU_, Sep 2020 - Mar 2022
 
 ## 🎓 Education
 
