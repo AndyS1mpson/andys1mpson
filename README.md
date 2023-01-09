@@ -29,6 +29,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
 </p>
 
 <p>
@@ -45,6 +46,8 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="50px"/>
   <img src="https://avatars.githubusercontent.com/u/54801242?s=280&v=4" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50px"/>
 </p>
 
 <p>
