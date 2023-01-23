@@ -20,7 +20,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 
 ## 🎓 Education
 
-- 🎓 Master's Degree of Computer Science, Saint Petersburg State University (Distributed Computing Technologies), 2022 - present
+- 🎓 Master's Degree of Computer Science, Saint Petersburg State University (Distributed Computing Technologies), 2022 - 2024
 - 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2018 - 2022
 
 
