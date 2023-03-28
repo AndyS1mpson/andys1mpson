@@ -94,17 +94,17 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 ## 📈 Competitions
 <p>
   <a href='https://github.com/AndyS1mpson/leetcode-stats'>
-    <img src="https://leetcode-stats-six.vercel.app/?username=AndyS1mpson&theme=dark" width="400" />
+    <img src="https://leetcode-stats-six.vercel.app/?username=AndyS1mpson&theme=dark" width="370" />
   </a>
   <a>
-    <img src="https://github.r2v.ch/codewars?user=AndyS1mpson&stroke=%23BB432C" width="480" />
+    <img src="https://github.r2v.ch/codewars?user=AndyS1mpson&stroke=%23BB432C" width="445" />
   </a>
 </p>
 
 ### 📊 Github Stats
 <a href='https://github.com/AndyS1mpson/github-stats-transparent'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyS1mpson&hide=jupyter%20notebook,css,html,c%23,javascript,typescript,scss,cuda,c%2B%2B&layout=compact&theme=radical" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyS1mpson&hide=jupyter%20notebook,css,html,c%23,javascript,typescript,scss,cuda,c%2B%2B&layout=compact&theme=synthwave" width="375"/>
 </a>
 <a href='https://github.com/AndyS1mpson/github-stats-transparent'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndyS1mpson&show_icons=true&hide_border=true&theme=radical" alt="AndyS GitHub Stats" width="420"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndyS1mpson&show_icons=true&hide_border=true&theme=synthwave" alt="AndyS GitHub Stats" width="400"/>
 </a>
