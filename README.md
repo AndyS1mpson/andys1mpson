@@ -91,6 +91,16 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
   <img src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&logoColor=orange" alt="Jupyter" width="100" />
 </p>
 
+## 📈 Competitions
+<p>
+  <a href='https://github.com/AndyS1mpson/leetcode-stats'>
+    <img src="https://leetcode-stats-six.vercel.app/?username=AndyS1mpson&theme=dark" width="400" />
+  </a>
+  <a>
+    <img src="https://github.r2v.ch/codewars?user=AndyS1mpson&stroke=%23BB432C" width="480" />
+  </a>
+</p>
+
 ### 📊 Github Stats
 <a href='https://github.com/AndyS1mpson/github-stats-transparent'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyS1mpson&hide=jupyter%20notebook,css,html,c%23,javascript,typescript,scss,cuda,c%2B%2B&layout=compact&theme=radical" width="400"/>
