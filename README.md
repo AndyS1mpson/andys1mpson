@@ -46,45 +46,49 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=blue" alt="PostgreSQL" width="130">
-  <img src="https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=red" alt="Redis" width="82">
-  <img src="https://img.shields.io/badge/-ClickHouse-000000?logo=clickhouse&logoColor=turquoise" alt="ClickHouse" width="130">
-  <img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=green" alt="MongoDB" width="120">
-  <img src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=blue" alt="MySQL" width="102">
-  <img src="https://img.shields.io/badge/-SQLite-000000?logo=sqlite&logoColor=blue" alt="SQLite" width="100">
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=blue" alt="PostgreSQL" width="130" />
+  <img src="https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=red" alt="Redis" width="82" />
+  <img src="https://img.shields.io/badge/-ClickHouse-000000?logo=clickhouse&logoColor=turquoise" alt="ClickHouse" width="130" />
+  <img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=green" alt="MongoDB" width="120" />
+  <img src="https://img.shields.io/badge/-Oracle-000000?logo=oracle&logoColor=orange" alt="Oracle" width="95" />
+  <img src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=blue" alt="MySQL" width="102" />
+  <img src="https://img.shields.io/badge/-SQLite-000000?logo=sqlite&logoColor=blue" alt="SQLite" width="100" />
 </p>
 
 ### CI/CD
 <p>
-  <img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=blue" alt="Docker" width="100">
-  <img src="https://img.shields.io/badge/-Jenkins-000000?logo=jenkins&logoColor=red" alt="Jenkins" width="100">
+  <img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=blue" alt="Docker" width="100" />
+  <img src="https://img.shields.io/badge/-Jenkins-000000?logo=jenkins&logoColor=red" alt="Jenkins" width="100" />
   <img src="https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=white" alt="TeamCity" width="122" />
   <img src="https://img.shields.io/badge/OpenShift-000000?logo=openshift&logoColor=2D72F3" alt="OpenShift" width="100"/>
 </p>
 
 ### Tools
 <p>
-  <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=orange" alt="Git" width="70">
+  <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=orange" alt="Git" width="70" />
   <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" alt="GitHub" width="106" />
   <img src="https://img.shields.io/badge/-GitLab-000000?logo=gitlab&logoColor=orange" alt="GitLab" width="100" />
   <img src="https://img.shields.io/badge/-Bitbucket-000000?logo=bitbucket&logoColor=blue" alt="Bitbucket" width="125" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="100">
-  <img src="https://img.shields.io/badge/-Nginx-000000?logo=nginx&logoColor=green" alt="Nginx" width="100">
+  <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="100" />
+  <img src="https://img.shields.io/badge/-Nginx-000000?logo=nginx&logoColor=green" alt="Nginx" width="100" />
   <img src="https://img.shields.io/badge/-Make-000000?logo=gnu-make&logoColor=yellow" alt="Make" width="66">
   <img src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=blue" alt="HTML" width="100" />
   <img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=blue" alt="CSS" width="86" />
   <img src="https://img.shields.io/badge/-Jira-000000?logo=jira&logoColor=0052CC" width="80" />
   <img src="https://img.shields.io/badge/-Confluence-000000?logo=confluence&logoColor=blue" alt="Confluence" width="150" />
   <img src="https://img.shields.io/badge/-Postman-000000?logo=postman&logoColor=orange" alt="Postman" width="128" />
-  <img src="https://img.shields.io/badge/-Linux-000000?logo=linux" alt="Linux" width="98">
-  <img src="https://img.shields.io/badge/-Ubuntu-000000?logo=ubuntu&logoColor=orange" alt="Ubuntu" width="110" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/-VS%20Code-000000?logo=visual-studio-code&logoColor=blue" alt="VSCode" width="110">
+  <img src="https://img.shields.io/badge/-Linux-000000?logo=linux" alt="Linux" width="98" />
+  <img src="https://img.shields.io/badge/-Ubuntu-000000?logo=ubuntu&logoColor=orange" alt="Ubuntu" width="110" />
+  <img src="https://img.shields.io/badge/MacOS-000000?logo=apple" alt="MacOS" width="100" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-VS%20Code-000000?logo=visual-studio-code&logoColor=blue" alt="VSCode" width="110" />
   <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=green" alt="PyCharm" width="110" />
-  <img src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&logoColor=orange" alt="Jupyter" width="100">
+  <img src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&logoColor=orange" alt="Jupyter" width="100" />
 </p>
 
 ### 📊 Github Stats
