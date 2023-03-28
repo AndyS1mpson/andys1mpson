@@ -26,51 +26,65 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 
 ## 🔧 Core Skills and Tools
 
+### Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" />
+  <img src="https://img.shields.io/badge/-Golang-000?&logo=Go" alt="Golang" width="100" />
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=c-sharp&logoColor=purple" alt="CSharp" width="68" />
 </p>
 
+### Frameworks and Libraries
 <p>
-<img src="https://styles.redditmedia.com/t5_2qh4v/styles/communityIcon_r1rcce3bp1241.png" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="50px"/>
-<img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/6617/2328/thumbnail.png?v131141820642441697" width="50px"/>
-<img src="https://raw.githubusercontent.com/github/explore/60cd2530141f67f07a947fa2d310c482e287e387/topics/playwright/playwright.png" width="50px"/>
-<img src="https://img.icons8.com/ios/500/selenium-test-automation.png" width="50px"/>
+  <img src="https://img.shields.io/badge/-Django-000000?logo=django&logoColor=green" alt="Django" width="100"/>
+  <img src="https://img.shields.io/badge/-FastAPI-000000?logo=fastapi&logoColor=deap+teal" alt="FastAPI" width="102"/>
+  <img src="https://img.shields.io/badge/-Celery-000000?logo=celery&logoColor=green" alt="Celery" width="95">
+  <img src="https://img.shields.io/badge/-Pytest-000000?logo=pytest&logoColor=white" alt="PyTest" width="95"/>
+  <img src="https://img.shields.io/badge/-Scrapy-000000?logo=scrapy&logoColor=green" alt="Scrapy" width="70"/>
+  <img src="https://img.shields.io/badge/-Playwright-000000?logo=playwright&logoColor=blue" alt="Playwright" width="128"/>
+  <img src="https://img.shields.io/badge/-Selenium-000000?logo=selenium&logoColor=green" alt="Selenium" width="120"/>
 </p>
 
+### Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="50px"/>
-  <img src="https://avatars.githubusercontent.com/u/54801242?s=280&v=4" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50px"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=blue" alt="PostgreSQL" width="130">
+  <img src="https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=red" alt="Redis" width="82">
+  <img src="https://img.shields.io/badge/-ClickHouse-000000?logo=clickhouse&logoColor=turquoise" alt="ClickHouse" width="130">
+  <img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=green" alt="MongoDB" width="120">
+  <img src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=blue" alt="MySQL" width="102">
+  <img src="https://img.shields.io/badge/-SQLite-000000?logo=sqlite&logoColor=blue" alt="SQLite" width="100">
 </p>
 
+### CI/CD
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50px"/>
-<img src="https://fuse8.ru/media/1822/apache-kafka.png" width="50px"/>
-<img src="https://user-images.githubusercontent.com/45228812/188652721-b9e91acf-294e-4373-93e6-507ccd4f7941.png" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" width="50px"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/45228812/214014625-0abbeb06-34c0-47a5-a2a8-dde92e3277a2.png" width="50px"/>
+  <img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=blue" alt="Docker" width="100">
+  <img src="https://img.shields.io/badge/-Jenkins-000000?logo=jenkins&logoColor=red" alt="Jenkins" width="100">
+  <img src="https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=white" alt="TeamCity" width="122" />
+  <img src="https://img.shields.io/badge/OpenShift-000000?logo=openshift&logoColor=2D72F3" alt="OpenShift" width="100"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=orange" alt="Git" width="70">
+  <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" alt="GitHub" width="106" />
+  <img src="https://img.shields.io/badge/-GitLab-000000?logo=gitlab&logoColor=orange" alt="GitLab" width="100" />
+  <img src="https://img.shields.io/badge/-Bitbucket-000000?logo=bitbucket&logoColor=blue" alt="Bitbucket" width="125" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="100">
+  <img src="https://img.shields.io/badge/-Nginx-000000?logo=nginx&logoColor=green" alt="Nginx" width="100">
+  <img src="https://img.shields.io/badge/-Make-000000?logo=gnu-make&logoColor=yellow" alt="Make" width="66">
+  <img src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=blue" alt="HTML" width="100" />
+  <img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=blue" alt="CSS" width="86" />
+  <img src="https://img.shields.io/badge/-Jira-000000?logo=jira&logoColor=0052CC" width="80" />
+  <img src="https://img.shields.io/badge/-Confluence-000000?logo=confluence&logoColor=blue" alt="Confluence" width="150" />
+  <img src="https://img.shields.io/badge/-Postman-000000?logo=postman&logoColor=orange" alt="Postman" width="128" />
+  <img src="https://img.shields.io/badge/-Linux-000000?logo=linux" alt="Linux" width="98">
+  <img src="https://img.shields.io/badge/-Ubuntu-000000?logo=ubuntu&logoColor=orange" alt="Ubuntu" width="110" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-VS%20Code-000000?logo=visual-studio-code&logoColor=blue" alt="VSCode" width="110">
+  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=green" alt="PyCharm" width="110" />
+  <img src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&logoColor=orange" alt="Jupyter" width="100">
 </p>
 
 ### 📊 Github Stats
