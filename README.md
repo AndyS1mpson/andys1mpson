@@ -73,7 +73,8 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 <p>
   <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="100" />
   <img src="https://img.shields.io/badge/-Nginx-000000?logo=nginx&logoColor=green" alt="Nginx" width="100" />
-  <img src="https://img.shields.io/badge/-Make-000000?logo=gnu-make&logoColor=yellow" alt="Make" width="66">
+  <img src="https://img.shields.io/badge/-Make-000000?logo=gnu-make&logoColor=yellow" alt="Make" width="66" />
+  <img src="https://img.shields.io/badge/-Hadoop-000?logo=Apache%20Hadoop&logoColor=yellow" alt="Hadoop" width="116" />
   <img src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=blue" alt="HTML" width="100" />
   <img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=blue" alt="CSS" width="86" />
   <img src="https://img.shields.io/badge/-Jira-000000?logo=jira&logoColor=0052CC" width="80" />
