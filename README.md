@@ -63,7 +63,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
   <img src="https://img.shields.io/badge/OpenShift-000000?logo=openshift&logoColor=2D72F3" alt="OpenShift" width="100"/>
 </p>
 
-### Tools
+### Other tools
 <p>
   <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=orange" alt="Git" width="70" />
   <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" alt="GitHub" width="106" />
@@ -103,8 +103,8 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 
 ## 📊 Github Stats
 <a href='https://github.com/AndyS1mpson/github-stats-transparent'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyS1mpson&hide=jupyter%20notebook,css,html,javascript,typescript,scss,cuda,c%2B%2B&layout=compact&theme=synthwave" width="375"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyS1mpson&hide=jupyter%20notebook,css,html,javascript,typescript,scss,cuda,c%2B%2B&layout=compact&theme=synthwave" width="325"/>
 </a>
 <a href='https://github.com/AndyS1mpson/github-stats-transparent'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndyS1mpson&show_icons=true&hide_border=true&theme=synthwave" alt="AndyS GitHub Stats" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndyS1mpson&show_icons=true&hide_border=true&theme=synthwave" alt="AndyS GitHub Stats" width="425"/>
 </a>
