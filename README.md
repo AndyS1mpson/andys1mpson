@@ -17,7 +17,6 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 - 💼 Current: Middle Python MLOps/Backend Developer at _Innotech_/_VTB_, since Nov 2022
 - 💼 Ex: Middle Python Backend Developer at _Orbis3_, Mar 2022 - Nov 2022
 - 💼 Ex: Junior Web Developer at _DEERC SPbU_, Sep 2020 - Mar 2022
-- 💼 Ex: Junior Backend Developer at _QwertyCoding_, Feb 2020 - Sep 2020
 
 ## 🎓 Education
 
@@ -78,7 +77,6 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
   <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="100" />
   <img src="https://img.shields.io/badge/-Nginx-000000?logo=nginx&logoColor=green" alt="Nginx" width="100" />
   <img src="https://img.shields.io/badge/-Make-000000?logo=gnu-make&logoColor=yellow" alt="Make" width="66" />
-  <img src="https://img.shields.io/badge/-Hadoop-000?logo=Apache%20Hadoop&logoColor=yellow" alt="Hadoop" width="116" />
   <img src="https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=blue" alt="HTML" width="100" />
   <img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=blue" alt="CSS" width="86" />
   <img src="https://img.shields.io/badge/-Jira-000000?logo=jira&logoColor=0052CC" width="80" />
