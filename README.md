@@ -24,7 +24,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Python. At my curre
 - 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2018 - 2022
 
 ## 📕 Supplemental Education:
-- 📕 "Go-middle developer" course from Ozon Tech, May 2023 - July 2023
+- 📕 "Go-middle developer" course from Ozon Tech, May 2023 - Jul 2023
 
 
 ## 🔧 Core Skills and Tools
