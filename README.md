@@ -10,7 +10,7 @@
 
 ## 📝 A little bit about me:
 
-My name is Andrey Ageev. I work as a Software Engineer using Python. At my current workplace, I work on embedding machine learning models for loan origination into bank tools. In my free time I study the design and architecture of modern software, good code writing practices and much more.
+My name is Andrey Ageev. I work as a Software Engineer using Go. In my free time I study the design and architecture of modern software, good code writing practices and much more.
 
 ## 👨‍💻 Experience
 **Current occupation**: 💼 _Avito_ as Middle Go Backend Developer (since Aug 2023) 
