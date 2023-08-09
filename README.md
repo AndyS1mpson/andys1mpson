@@ -13,10 +13,10 @@
 My name is Andrey Ageev. I work as a Software Engineer using Go. In my free time I study the design and architecture of modern software, good code writing practices and much more.
 
 ## 👨‍💻 Experience
-**Current occupation**: 💼 _Avito_ as Middle Go Backend Developer (since Aug 2023) 
-- 💼 **Ex**: _Innotech_/_VTB_ as Middle Python MLOps/Backend Developer (Nov 2022 - Aug 2023)
-- 💼 **Ex**: _Orbis3_ as Middle Python Backend Developer (Mar 2022 - Nov 2022)
-- 💼 **Ex**: _DEERC SPbU_ as Junior Web Developer (Sep 2020 - Mar 2022)
+**Current occupation**: 💼 _Avito_ as Middle Backend Developer, ***Go*** (since Aug 2023)
+- 💼 **Ex**: _Innotech_/_VTB_ as Middle MLOps/Backend Developer, ***Python*** (Nov 2022 - Aug 2023)
+- 💼 **Ex**: _Orbis3_ as Middle Backend Developer, ***Python*** (Mar 2022 - Nov 2022)
+- 💼 **Ex**: _DEERC SPbU_ as Junior Web Developer, ***Python*** (Sep 2020 - Mar 2022)
 
 ## 🎓 Education
 
@@ -31,8 +31,8 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. In my free time
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" />
   <img src="https://img.shields.io/badge/-Golang-000?&logo=Go" alt="Golang" width="100" />
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" />
   <img src="https://img.shields.io/badge/-C%23-000000?logo=c-sharp&logoColor=purple" alt="CSharp" width="68" />
 </p>
 
