@@ -10,7 +10,7 @@
 
 ## 📝 A little bit about me:
 
-My name is Andrey Ageev. I work as a Software Engineer using Go and Python. I am currently working as a backend engineer at _Avito_ in the _Loyalty, Sales and Discounts_ department. In my free time I study the design and architecture of modern software, good code writing practices and much more.
+My name is Andrey Ageev. I work as a Software Engineer using Go and Python. Now I work as a backend engineer at _Avito_ in the _Loyalty, Sales and Discounts_ department. In my free time I study the design and architecture of modern software, good code writing practices and much more.
 
 ## 👨‍💻 Experience
 **Current occupation**: 💼 _Avito_ as Middle Backend Developer, ***Go*** (since Aug 2023)
