@@ -82,6 +82,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Go and Python. Now 
   <img src="https://img.shields.io/badge/-Jira-000000?logo=jira&logoColor=0052CC" width="80" />
   <img src="https://img.shields.io/badge/-Confluence-000000?logo=confluence&logoColor=blue" alt="Confluence" width="150" />
   <img src="https://img.shields.io/badge/-Postman-000000?logo=postman&logoColor=orange" alt="Postman" width="128" />
+  <img src="https://img.shields.io/badge/-Jaeger-000?&logo=Jaeger&logoColor=white" alt="Jaeger" width="110" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/-Linux-000000?logo=linux" alt="Linux" width="98" />
@@ -91,6 +92,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Go and Python. Now 
 <p>
   <img src="https://img.shields.io/badge/-VS%20Code-000000?logo=visual-studio-code&logoColor=blue" alt="VSCode" width="110" />
   <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=green" alt="PyCharm" width="110" />
+  <img src="https://img.shields.io/badge/-Goland-000?&logo=Goland&logoColor=white" alt="Goland" width="100" />
   <img src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&logoColor=orange" alt="Jupyter" width="100" />
 </p>
 
