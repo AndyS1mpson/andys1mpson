@@ -33,7 +33,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Go and Python. Now 
 <p>
   <img src="https://img.shields.io/badge/-Golang-000?&logo=Go" alt="Golang" width="100" />
   <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" />
-  <img src="https://img.shields.io/badge/-C%23-000000?logo=c-sharp&logoColor=purple" alt="CSharp" width="68" />
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=c-sharp&logoColor=purple" alt="CSharp" width="40" />
 </p>
 
 ### Frameworks and Libraries
@@ -42,7 +42,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Go and Python. Now 
   <img src="https://img.shields.io/badge/-FastAPI-000000?logo=fastapi&logoColor=deap+teal" alt="FastAPI" width="102"/>
   <img src="https://img.shields.io/badge/-Celery-000000?logo=celery&logoColor=green" alt="Celery" width="95">
   <img src="https://img.shields.io/badge/-Pytest-000000?logo=pytest&logoColor=white" alt="PyTest" width="95"/>
-  <img src="https://img.shields.io/badge/-Scrapy-000000?logo=scrapy&logoColor=green" alt="Scrapy" width="70"/>
+  <img src="https://img.shields.io/badge/-Scrapy-000000?logo=scrapy&logoColor=green" alt="Scrapy" width="100"/>
   <img src="https://img.shields.io/badge/-Playwright-000000?logo=playwright&logoColor=blue" alt="Playwright" width="128"/>
   <img src="https://img.shields.io/badge/-Selenium-000000?logo=selenium&logoColor=green" alt="Selenium" width="120"/>
 </p>
