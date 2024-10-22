@@ -98,8 +98,8 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
 
 ## 📈 Competitions
 <p>
-  <a href='https://github.com/AndyS1mpson/leetcode-stats'>
-    <img src="https://leetcode-stats-six.vercel.app/?username=AndyS1mpson&theme=dark" width="370" />
+  <a href="https://www.github.com/AndyS1mpson" target="_blank" rel="noreferrer">
+    <img src="https://leetcard.jacoblin.cool/AndyS1mpson?theme=unicorn" width="370" height="200" />
   </a>
   <a>
     <img src="https://github.r2v.ch/codewars?user=AndyS1mpson&stroke=%23BB432C" width="445" />
