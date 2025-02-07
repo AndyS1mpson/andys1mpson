@@ -14,7 +14,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
 
 ## 👨‍💻 Experience
 **Current occupation**: 💼 _Avito_ as Middle Backend Developer, ***Go*** (since Aug 2023)
-- 💼 **Ex**: _Innotech_/_VTB_ as Middle MLOps/Backend Developer, ***Python*** (Nov 2022 - Aug 2023)
+- 💼 **Ex**: _Innotech_/_VTB_ as Middle MLOps/Backend Developer, ***Python/Go*** (Nov 2022 - Aug 2023)
 - 💼 **Ex**: _Orbis3_ as Middle Backend Developer, ***Python*** (Mar 2022 - Nov 2022)
 - 💼 **Ex**: _DEERC SPbU_ as Junior Web Developer, ***Python*** (Feb 2020 - Mar 2022)
 
