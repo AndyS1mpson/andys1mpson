@@ -13,10 +13,10 @@
 My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a backend engineer at _Avito_ in the _Loyalty, Sales and Discounts_ department. In my free time I study the design and architecture of modern software, good code writing practices and much more.
 
 ## 👨‍💻 Experience
-**Current occupation**: 💼 _Avito_ as Middle Backend Developer, ***Go*** (since Aug 2023)
-- 💼 **Ex**: _Innotech_/_VTB_ as Middle MLOps/Backend Developer, ***Python/Go*** (Nov 2022 - Aug 2023)
-- 💼 **Ex**: _Orbis3_ as Middle Backend Developer, ***Go*** (Mar 2022 - Nov 2022)
-- 💼 **Ex**: _DEERC SPbU_ as Junior Web Developer, ***Python*** (Feb 2020 - Mar 2022)
+**Current occupation**: 💼 _Avito_ as Software Engineer, ***Go*** (since Aug 2022)
+- 💼 **Ex**: _Innotech_/_VTB_ as Software Engineer, ***Python/Go*** (Nov 2022 - Aug 2022)
+- 💼 **Ex**: _Orbis3_ as Backend Developer, ***Go*** (Mar 2022 - Nov 2022)
+- 💼 **Ex**: _DEERC SPbU_ as Web Developer, ***Python*** (Feb 2020 - Mar 2022)
 
 ## 🎓 Education
 
