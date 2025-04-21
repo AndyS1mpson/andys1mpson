@@ -14,7 +14,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
 
 ## 👨‍💻 Experience
 **Current occupation**: 💼 _Avito_ as Software Engineer, ***Go*** (since Aug 2023)
-- 💼 **Ex**: _Innotech_/_VTB_ as Software Engineer, ***Python/Go*** (Nov 2022 - Aug 2023)
+- 💼 **Ex**: _Innotech_/_VTB_ as Software Engineer, ***Go*** (Nov 2022 - Aug 2023)
 - 💼 **Ex**: _Orbis3_ as Backend Developer, ***Go*** (Mar 2021 - Nov 2022)
 - 💼 **Ex**: _DEERC SPbU_ as Web Developer, ***Python*** (Feb 2020 - Mar 2021)
 
