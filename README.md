@@ -33,7 +33,6 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
 <p>
   <img src="https://img.shields.io/badge/-Golang-000?&logo=Go" alt="Golang" width="100" />
   <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" />
-  <img src="https://img.shields.io/badge/-C%23-000000?logo=c-sharp&logoColor=purple" alt="CSharp" width="40" />
 </p>
 
 ### Frameworks and Libraries
@@ -53,9 +52,6 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
   <img src="https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=red" alt="Redis" width="82" />
   <img src="https://img.shields.io/badge/-ClickHouse-000000?logo=clickhouse&logoColor=turquoise" alt="ClickHouse" width="130" />
   <img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=green" alt="MongoDB" width="120" />
-  <img src="https://img.shields.io/badge/-Oracle-000000?logo=oracle&logoColor=orange" alt="Oracle" width="95" />
-  <img src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=blue" alt="MySQL" width="102" />
-  <img src="https://img.shields.io/badge/-SQLite-000000?logo=sqlite&logoColor=blue" alt="SQLite" width="100" />
 </p>
 
 ### CI/CD
@@ -63,7 +59,6 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
   <img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=blue" alt="Docker" width="100" />
   <img src="https://img.shields.io/badge/-Jenkins-000000?logo=jenkins&logoColor=red" alt="Jenkins" width="100" />
   <img src="https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=white" alt="TeamCity" width="122" />
-  <img src="https://img.shields.io/badge/OpenShift-000000?logo=openshift&logoColor=2D72F3" alt="OpenShift" width="100"/>
 </p>
 
 ### Other tools
@@ -91,7 +86,6 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
 </p>
 <p>
   <img src="https://img.shields.io/badge/-VS%20Code-000000?logo=visual-studio-code&logoColor=blue" alt="VSCode" width="110" />
-  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=green" alt="PyCharm" width="110" />
   <img src="https://img.shields.io/badge/-Goland-000?&logo=Goland&logoColor=white" alt="Goland" width="100" />
   <img src="https://img.shields.io/badge/-Jupyter-000000?logo=jupyter&logoColor=orange" alt="Jupyter" width="100" />
 </p>
