@@ -24,8 +24,8 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
 - 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2018 - 2022
 
 ## 📕 Supplemental Education:
+- 📕 "Concurrency in Go" course from balun.courses, Nov 2025 - Dec 2025
 - 📕 "Go-middle developer" course from Ozon Tech, May 2023 - Jul 2023
-
 
 ## 🔧 Core Skills and Tools
 
