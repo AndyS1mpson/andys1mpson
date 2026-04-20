@@ -25,7 +25,7 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
 
 ## 📕 Supplemental Education:
 - 📕 "Concurrency in Go" course from balun.courses, Nov 2025 - Dec 2025
-- 📕 "Go-middle developer" course from Ozon Tech, May 2023 - Jul 2023
+- 📕 "Route 256: Go Backend Developer" course from Ozon Tech, May 2023 - Jul 2023
 
 ## 🔧 Core Skills and Tools
 
