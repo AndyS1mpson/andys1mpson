@@ -28,31 +28,12 @@ My name is Andrey Ageev. I work as a Software Engineer using Go. Now I work as a
 - 📕 "Route 256: Go Backend Developer" course from Ozon Tech, May 2023 - Jul 2023
 
 ## 🔧 Core Skills and Tools
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/-Golang-000?&logo=Go" alt="Golang" width="100" />
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=blue" alt="PostgreSQL" width="130" />
-  <img src="https://img.shields.io/badge/-Redis-000000?logo=redis&logoColor=red" alt="Redis" width="82" />
-  <img src="https://img.shields.io/badge/-ClickHouse-000000?logo=clickhouse&logoColor=turquoise" alt="ClickHouse" width="130" />
-  <img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=green" alt="MongoDB" width="117" />
-</p>
-
-### Other tools
-<p>
-  <img src="https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=blue" alt="Docker" width="110" />
-  <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=blue" alt="Kubernetes" width="145" />
-  <img src="https://img.shields.io/badge/-Jenkins-000000?logo=jenkins&logoColor=red" alt="Jenkins" width="110" />
-  <img src="https://img.shields.io/badge/-Kafka-000000?logo=apache-kafka&logoColor=orange" alt="Kafka" width="95" />
-  <img src="https://img.shields.io/badge/-RabbitMQ-000?&logo=rabbitmq&logoColor=orange" alt="RabbitMQ" width="130" />
-  <img src="https://img.shields.io/badge/-Nginx-000000?logo=nginx&logoColor=green" alt="Nginx" width="95" />
-  <img src="https://img.shields.io/badge/-Jaeger-000?&logo=Jaeger&logoColor=white" alt="Jaeger" width="105" />
-</p>
+- 🔧 **Languages:** Go, Python
+- 🔧 **Architecture:** Distributed systems, high-load, event-driven, microservices
+- 🔧 **Databases:** PostgreSQL, DynamoDB, MongoDB, ClickHouse, MySQL 
+- 🔧 **Infrastructure:** Docker, k8s, Kafka, Redis
+- 🔧 **Protocols:** REST, gRPC
+- 🔧 **Observability:** Prometheus, Grafana
 
 ## 📈 Competitions
 <p>
